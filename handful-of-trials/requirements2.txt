@@ -1,0 +1,9 @@
+dotmap
+future
+gpflow
+gym
+mujoco-py
+numpy
+scipy
+tensorflow-gpu
+tqdm
